@@ -1,2 +1,2 @@
 # React-app
- Basixc react app
+ Basic react app
